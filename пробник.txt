@@ -1,1 +1,9 @@
-тест
+Вот параметры подключения:
+Host: localhost
+Port: 5432
+Database: deviceradar
+Username: postgres
+Password: 882140
+
+C:\Users\( . )( . )\Desktop\git\DeviceRadar
+гей
